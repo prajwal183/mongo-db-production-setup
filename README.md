@@ -10,7 +10,7 @@ To set up the production cluster for the use case <br/>
 
 ## Extras 
 
-1. M40 cluster (prod )
+1. M40 cluster (prod)
 2. considering M10 for this exercise
 
 
